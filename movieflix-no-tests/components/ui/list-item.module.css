@@ -1,0 +1,18 @@
+.card {
+  background: var(--card-background-color);
+  padding: 0.4rem;
+}
+
+.cardBody {
+  padding: 0.7rem;
+  font-size: 1.25rem;
+}
+
+.poster {
+  width: 100%;
+}
+
+.card,
+.poster {
+  border-radius: 10px;
+}

@@ -1,0 +1,9 @@
+.streaming {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.streaming p {
+  font-size: 2rem;
+}
